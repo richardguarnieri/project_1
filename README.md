@@ -28,10 +28,10 @@ Variables: year, country, number of suicides by year, population by year, etc…
 Source: https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
 
 ## Sample Images
-![Number of Suicides per Year (1985 - 2015)](https://github.com/richardguarnieri/project_1/blob/main/Images/suicides_per_year.png?raw=true)
+![Number of Suicides per Year (1985 - 2015)](Images/suicides_per_year.png)
 *Number of Suicides per Year (1985 - 2015)*
 
-![Total Number of Suicides per Country (1985 - 2015)](https://github.com/richardguarnieri/project_1/blob/main/Images/suicides_per_country.png?raw=true)
+![Total Number of Suicides per Country (1985 - 2015)](Images/suicides_per_country.png)
 *Total Number of Suicides per Country (1985 - 2015)*
 
 ## Conclusion
